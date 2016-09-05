@@ -5,7 +5,7 @@
 	<groupId>se.jabberwocky.ccrypt</groupId>
 	<artifactId>ccrypt-j</artifactId>
 	<name>ccrypt-j</name>
-	<version>0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<packaging>pom</packaging>
 
 	<build>
